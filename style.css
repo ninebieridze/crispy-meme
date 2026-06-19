@@ -1,1 +1,14 @@
-style.css
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#FAQ {
+	text-align: center;
+	border: 130px solid #B068E9;
+    padding: 70px 285px 83px ;
+    max-width: 1300px;
+    width: 100%;
+}
